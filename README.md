@@ -92,7 +92,7 @@ Database_RAG/
 ### 1. Clone / Open the project
 
 ```bash
-cd C:\vibe-coding\Database_RAG
+git clone https://github.com/KJQ2000/DatabaseRAG.git
 ```
 
 ### 2. Create a virtual environment
