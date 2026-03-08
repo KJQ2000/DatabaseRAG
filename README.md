@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agentic Database RAG
 
 > **Chop Kong Hin · Intelligent Business Intelligence Assistant**
@@ -205,3 +206,7 @@ The following PostgreSQL tables are supported (detailed schema in `knowledge/Bil
 | Import errors on startup | Ensure venv is activated and `pip install -r requirements.txt` ran successfully |
 | 0 rows from SQL Agent | The agent will auto-retry up to `MAX_SQL_RETRIES` times with refined prompts |
 | Logs | Check `logs/app.log` for detailed debug information |
+=======
+# DatabaseRAG
+Agentic RAG system that answers natural-language business questions by orchestrating multiple AI agents over a PostgreSQL database using OpenAI and Streamlit.
+>>>>>>> cb3000b (Initial commit)
